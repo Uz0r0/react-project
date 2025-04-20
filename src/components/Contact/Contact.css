@@ -1,0 +1,19 @@
+.Contact img{
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    padding-bottom: 57px;
+}
+
+.Map-info{
+    position: relative;
+    background-color: white;
+    width: 405px;
+    padding: 56px 80px;
+    z-index: 99;
+}
+
+.Map-title{
+    width: 163px;
+}

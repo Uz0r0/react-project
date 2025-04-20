@@ -1,0 +1,56 @@
+.Example{
+    padding-top: 79px;
+    position: relative;
+}
+
+.Example h1{
+    padding-bottom: 76px;
+}
+
+.main-info{
+    padding-top: 70px;
+    width: 436px;
+}
+
+.square-info{
+    padding-top: 69px;
+    padding-bottom: 55px;
+    width: 366px;
+    text-align: center;
+}
+
+.cost{
+    width: 327px;
+    padding-bottom: 95px;
+}
+
+.CENTER{
+    font-size: 30px;
+}
+
+.Bottom{
+    font-size: 14px;
+}
+
+.square{
+    width: 162px;
+    height: 77px;
+    border: 2px solid #CDCDCD;
+}
+
+.examplePicture{
+    position: absolute;
+    top: 50px;
+    right: 0;
+}
+
+.slider img{
+    padding-left: 20px;
+    padding-right: 11px;
+}
+
+.slider {
+    padding-right: 100px;
+    padding-bottom: 64px;
+    align-items: center;
+}

@@ -1,0 +1,23 @@
+.steps{
+    position: relative;
+}
+
+.steps .steps-icon{
+    position: relative;
+    z-index: 2;
+    padding-bottom: 31px;
+}
+
+.steps p{
+    position: relative;
+    width: 225px;
+    z-index: 3;
+}
+
+.steps .number{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+

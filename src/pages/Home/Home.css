@@ -1,0 +1,8 @@
+.cards-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Steps h1{
+    padding-bottom: 72px;
+}
